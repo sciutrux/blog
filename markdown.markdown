@@ -1,4 +1,4 @@
-# Markdown (h1 tag)
+# Markdown
 
 ## This is an h2 tag
 ### This is an h3 tag
